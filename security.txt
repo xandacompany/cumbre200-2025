@@ -1,0 +1,9 @@
+# security.txt para [https://grupomundoejecutivo.com/cumbre200-2025/∫]
+
+Contact: mailto:seguridad@tudominio.com
+Contact: https://tudominio.com/contacto
+Encryption: https://grupomundoejecutivo.com/cumbre200-2025/pgp-key
+Preferred-Languages: en, es
+Acknowledgements: https://tudominio.com/acknowledgements
+Canonical: https://grupomundoejecutivo.com/security.txt
+Expires: 2025-12-31T23:59:59Z
